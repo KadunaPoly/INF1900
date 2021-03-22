@@ -1,0 +1,2 @@
+avr-g++ -c *-cpp
+avr-ar -rcs lib.a *.0
