@@ -1,0 +1,3 @@
+affichage.cpp:5:1:Affichage::Affichage()	2	static
+affichage.cpp:6:6:void Affichage::AfficherNomDuRobot()	14	static
+affichage.cpp:14:6:void Affichage::AfficherDistance(double, double)	24	static

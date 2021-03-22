@@ -1,0 +1,3 @@
+can.cpp:16:1:Can::Can()	2	static
+can.cpp:34:1:Can::~Can()	2	static
+can.cpp:43:1:uint16_t Can::lecture(uint8_t)	2	static
